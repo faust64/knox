@@ -1,5 +1,5 @@
 {
-  "name": "knox",
+  "name": "myknox",
   "description": "Amazon S3 client",
   "keywords": [
     "aws",
@@ -17,9 +17,9 @@
   "main": "./lib/index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/LearnBoost/knox.git"
+    "url": "git://github.com/faust64/knox.git"
   },
-  "bugs": "https://github.com/LearnBoost/knox/issues",
+  "bugs": "https://github.com/faust64/knox/issues",
   "dependencies": {
     "mime": "*",
     "xml2js": "^0.4.4",
